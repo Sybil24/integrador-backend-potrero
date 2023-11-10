@@ -3,9 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Ropa de Mujer - MiTiend@</title>
+    <title>Ropa de hombre - MiTiend@</title>
     <link rel="icon" href="../img/iconpng.png" />
-    <link rel="stylesheet" href="../css/mujer.css" />
+    <link rel="stylesheet" href="../css/hombre.css" />
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -19,7 +19,7 @@
       <!-- NAVBAR -->
       <nav class="navbar navbar-expand-lg p-0">
         <div class="container-fluid p-0">
-          <a class="navbar-brand m-2 active" href="../../index.html"
+          <a class="navbar-brand m-2 active" href="../../index.php"
             >MiTiend@</a
           >
           <button
@@ -39,7 +39,7 @@
                 <a
                   class="nav-link"
                   aria-current="page"
-                  href="../views/ofertas.html"
+                  href="../views/ofertas.php"
                   >Ofertas</a
                 >
               </li>
@@ -55,12 +55,12 @@
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="#">Zapatillas</a></li>
                   <li>
-                    <a class="dropdown-item" href="../views/hombre.html"
+                    <a class="dropdown-item" href="../views/hombre.php"
                       >Ropa de Hombre</a
                     >
                   </li>
                   <li>
-                    <a class="dropdown-item" href="../views/mujer.html"
+                    <a class="dropdown-item" href="../views/mujer.php"
                       >Ropa de Mujer</a
                     >
                   </li>
@@ -75,7 +75,7 @@
                 </ul>
               </li>
               <li class="nav-item ms-2">
-                <a class="nav-link" href="../views/quienessomos.html"
+                <a class="nav-link" href="../views/quienessomos.php"
                   >Quiénes Somos</a
                 >
               </li>
@@ -112,9 +112,12 @@
     <main>
       <div class="section" id="section1">
         <div class="section-content">
-          <article class="section-item" id="art-m1">
+          <article class="section-item" id="art-h1">
             <div class="item-img">
-              <img src="../img/ofertas/mujer/mujer1.jpg" alt="" />
+              <img
+                src="../img/ofertas/hombre/hombre1.jpeg"
+                alt=""
+              />
             </div>
 
             <div
@@ -126,12 +129,14 @@
                 <h5 class="m-0">Jean Barcelona</h5>
                 <span>T. 40</span>
               </section>
+
               <section class="item-description d-flex flex-column justify-content-around">
                 <p class="m-0">
                   Jean de hombre corte recto. Rigido. Gris localizado
                 </p>
                 <span>En Stock</span>
               </section>
+
               <section
                 class="item-compra d-flex flex-row justify-content-between align-items-baseline"
               >
@@ -143,9 +148,9 @@
             </div>
           </article>
 
-          <article class="section-item" id="art-m2">
+          <article class="section-item" id="art-h2">
             <div class="item-img">
-              <img src="../img/ofertas/mujer/mujer2.webp" alt="" />
+              <img src="../img/ofertas/hombre/hombre3.jpeg" alt="" />
             </div>
 
             <div
@@ -176,9 +181,9 @@
             </div>
           </article>
 
-          <article class="section-item" id="art-m3">
+          <article class="section-item" id="art-h3">
             <div class="item-img">
-              <img src="../img/ofertas/mujer/mujer3.jpg" alt="" />
+              <img src="../img/ofertas/hombre/hombre4.jpg" alt="" />
             </div>
 
             <div
@@ -190,12 +195,14 @@
                 <h5 class="m-0">Capa Darly</h5>
                 <span>T. XL</span>
               </section>
+
               <section class="item-description d-flex flex-column justify-content-around">
                 <p class="m-0">
-                  Capa de algodón rústico
+                  Capa de algodón rústico 
                 </p>
                 <span>En Stock</span>
               </section>
+
               <section
                 class="item-compra d-flex flex-row justify-content-between align-items-baseline"
               >
@@ -207,9 +214,9 @@
             </div>
           </article>
 
-          <article class="section-item" id="art-m4">
+          <article class="section-item" id="art-h4">
             <div class="item-img">
-              <img src="../img/ofertas/mujer/mujer4.jpg" alt="" />
+              <img src="../img/ofertas/hombre/hombre5.jpg" alt="" />
             </div>
 
             <div
@@ -221,12 +228,14 @@
                 <h5 class="m-0">Buzo Theo</h5>
                 <span>T. XL</span>
               </section>
+
               <section class="item-description d-flex flex-column justify-content-around">
                 <p class="m-0">
                   Jean de hombre corte recto. Rigido. Gris localizado
                 </p>
                 <span>En Stock</span>
               </section>
+
               <section
                 class="item-compra d-flex flex-row justify-content-between align-items-baseline"
               >
@@ -238,9 +247,9 @@
             </div>
           </article>
 
-          <article class="section-item" id="art-m5">
+          <article class="section-item" id="art-h5">
             <div class="item-img">
-              <img src="../img/ofertas/mujer/mujer5.jpeg" alt="" />
+              <img src="../img/ofertas/hombre/hombre6.jpeg" alt="" />
             </div>
 
             <div
@@ -255,7 +264,7 @@
 
               <section class="item-description d-flex flex-column justify-content-around">
                 <p class="m-0">
-                  Jean de hombre corte intermiedio. Elastizado. 
+                  Jean de hombre corte intermiedio. Elastizado. Celeste
                   Localizado.
                 </p>
                 <span>En Stock</span>
@@ -272,9 +281,9 @@
             </div>
           </article>
 
-          <article class="section-item" id="art-m6">
+          <article class="section-item" id="art-h6">
             <div class="item-img">
-              <img src="../img/ofertas/mujer/mujer6.jpg" alt="" />
+              <img src="../img/ofertas/hombre/hombre2.jpeg" alt="" />
             </div>
 
             <div
@@ -332,7 +341,7 @@
       <hr class="m-0" />
       <div class="footer-content d-flex flex-row justify-content-center">
         <a
-          href="public/views/quienessomos.html#contacto"
+          href="public/views/quienessomos.php#contacto"
           class="footer-item p-3 pb-0"
           >Contacto</a
         >
@@ -346,9 +355,7 @@
         </p>
         <p class="footer-item">
           Iconos por
-          <a href="https://www.flaticon.es/autores/icongeek26" target="_blank"
-            >Icongeek26</a
-          >
+          <a href="https://www.flaticon.es/autores/icongeek26">Icongeek26</a>
         </p>
       </div>
     </footer>

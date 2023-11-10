@@ -19,7 +19,7 @@
       <!-- NAVBAR -->
       <nav class="navbar navbar-expand-lg p-0">
         <div class="container-fluid p-0">
-          <a class="navbar-brand m-2 active" href="../../index.html"
+          <a class="navbar-brand m-2 active" href="../../index.php"
             >MiTiend@</a
           >
           <button
@@ -39,7 +39,7 @@
                 <a
                   class="nav-link"
                   aria-current="page"
-                  href="../views/ofertas.html"
+                  href="../views/ofertas.php"
                   >Ofertas</a
                 >
               </li>
@@ -55,12 +55,12 @@
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="#">Zapatillas</a></li>
                   <li>
-                    <a class="dropdown-item" href="../views/hombre.html"
+                    <a class="dropdown-item" href="../views/hombre.php"
                       >Ropa de Hombre</a
                     >
                   </li>
                   <li>
-                    <a class="dropdown-item" href="../views/mujer.html"
+                    <a class="dropdown-item" href="../views/mujer.php"
                       >Ropa de Mujer</a
                     >
                   </li>
@@ -75,7 +75,7 @@
                 </ul>
               </li>
               <li class="nav-item ms-2">
-                <a class="nav-link" href="../views/quienessomos.html"
+                <a class="nav-link" href="../views/quienessomos.php"
                   >Quiénes Somos</a
                 >
               </li>
@@ -148,49 +148,49 @@
     <main>
       <section class="section">
         <div class="section-info">
-          <a class="links" href="../views/mujer.html">
+          <a class="links" href="../views/mujer.php">
             <h3 class="info-title">Mujer</h3>
           </a>
         </div>
 
         <div class="section-items">
           <article class="items-card mu1">
-            <a class="links" href="../views/mujer.html#art-m1">
+            <a class="links" href="../views/mujer.php#art-m1">
               <div class="card-title">Remera ML Florida</div>
               <div class="price">$1500</div>
             </a>
           </article>
 
           <article class="items-card mu2">
-            <a class="links" href="../views/mujer.html#art-m2">
+            <a class="links" href="../views/mujer.php#art-m2">
               <div class="card-title">Babucha Engomada</div>
               <div class="price">$2000</div>
             </a>
           </article>
 
           <article class="items-card mu3">
-            <a class="links" href="../views/mujer.html#art-m3">
+            <a class="links" href="../views/mujer.php#art-m3">
               <div class="card-title">Campera Helen Black</div>
               <div class="price">$3000</div>
             </a>
           </article>
 
           <article class="items-card mu4">
-            <a class="links" href="../views/mujer.html#art-m4">
+            <a class="links" href="../views/mujer.php#art-m4">
               <div class="card-title">Chaleco Uma Engomado</div>
               <div class="price">$2500</div>
             </a>
           </article>
 
           <article class="items-card mu5">
-            <a class="links" href="../views/mujer.html#art-m5">
+            <a class="links" href="../views/mujer.php#art-m5">
               <div class="card-title">Sweater Holanda</div>
               <div class="price">$4000</div>
             </a>
           </article>
 
           <article class="items-card mu6">
-            <a class="links" href="../views/mujer.html#art-m6">
+            <a class="links" href="../views/mujer.php#art-m6">
               <div class="card-title">Blazer Twill Sastrero</div>
               <div class="price">$5700</div>
             </a>
@@ -200,49 +200,49 @@
 
       <section class="section">
         <div class="section-info">
-          <a class="links" href="../views/hombre.html">
+          <a class="links" href="../views/hombre.php">
             <h3 class="info-title">Hombre</h3>
           </a>
         </div>
 
         <div class="section-items">
           <article class="items-card ho1">
-            <a class="links" href="../views/hombre.html#art-h1">
+            <a class="links" href="../views/hombre.php#art-h1">
               <div class="card-title">Jean Barcelona</div>
               <div class="price">$2500</div>
             </a>
           </article>
 
           <article class="items-card ho2">
-            <a class="links" href="../views/hombre.html#art-h2">
+            <a class="links" href="../views/hombre.php#art-h2">
               <div class="card-title">Camisa Denim</div>
               <div class="price">$3200</div>
             </a>
           </article>
 
           <article class="items-card ho3">
-            <a class="links" href="../views/hombre.html#art-h3">
+            <a class="links" href="../views/hombre.php#art-h3">
               <div class="card-title">Sweater Panal lll</div>
               <div class="price">$2000</div>
             </a>
           </article>
 
           <article class="items-card ho4">
-            <a class="links" href="../views/hombre.html#art-h4">
+            <a class="links" href="../views/hombre.php#art-h4">
               <div class="card-title">Capa Darly</div>
               <div class="price">$6500</div>
             </a>
           </article>
 
           <article class="items-card ho5">
-            <a class="links" href="../views/hombre.html#art-h5">
+            <a class="links" href="../views/hombre.php#art-h5">
               <div class="card-title">Buzo Theo</div>
               <div class="price">$4200</div>
             </a>
           </article>
 
           <article class="items-card ho6">
-            <a class="links" href="../views/hombre.html#art-h6">
+            <a class="links" href="../views/hombre.php#art-h6">
               <div class="card-title">Jean Niza</div>
               <div class="price">$2500</div>
             </a>
@@ -308,7 +308,7 @@
       <hr class="m-0" />
       <div class="footer-content d-flex flex-row justify-content-center">
         <a
-          href="public/views/quienessomos.html#contacto"
+          href="public/views/quienessomos.php#contacto"
           class="footer-item p-3 pb-0"
           >Contacto</a
         >

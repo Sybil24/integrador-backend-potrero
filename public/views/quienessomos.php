@@ -19,7 +19,7 @@
       <!-- NAVBAR -->
       <nav class="navbar navbar-expand-lg p-0">
         <div class="container-fluid p-0">
-          <a class="navbar-brand m-2 active" href="../../index.html"
+          <a class="navbar-brand m-2 active" href="../../index.php"
             >MiTiend@</a
           >
           <button
@@ -39,7 +39,7 @@
                 <a
                   class="nav-link"
                   aria-current="page"
-                  href="../views/ofertas.html"
+                  href="../views/ofertas.php"
                   >Ofertas</a
                 >
               </li>
@@ -55,12 +55,12 @@
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="#">Zapatillas</a></li>
                   <li>
-                    <a class="dropdown-item" href="../views/hombre.html"
+                    <a class="dropdown-item" href="../views/hombre.php"
                       >Ropa de Hombre</a
                     >
                   </li>
                   <li>
-                    <a class="dropdown-item" href="../views/mujer.html"
+                    <a class="dropdown-item" href="../views/mujer.php"
                       >Ropa de Mujer</a
                     >
                   </li>
@@ -75,7 +75,7 @@
                 </ul>
               </li>
               <li class="nav-item ms-2">
-                <a class="nav-link" href="../views/quienessomos.html"
+                <a class="nav-link" href="../views/quienessomos.php"
                   >Quiénes Somos</a
                 >
               </li>
@@ -195,7 +195,7 @@
       <hr class="m-0" />
       <div class="footer-content d-flex flex-row justify-content-center">
         <a
-          href="public/views/quienessomos.html#contacto"
+          href="public/views/quienessomos.php#contacto"
           class="footer-item p-3 pb-0"
           >Contacto</a
         >

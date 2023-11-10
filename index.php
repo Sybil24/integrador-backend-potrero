@@ -19,7 +19,7 @@
       <!-- NAVBAR -->
       <nav class="navbar navbar-expand-lg p-0">
         <div class="container-fluid p-0">
-          <a class="navbar-brand m-2 active" href="index.html">MiTiend@</a>
+          <a class="navbar-brand m-2 active" href="#">MiTiend@</a>
           <button
             class="navbar-toggler me-2"
             type="button"
@@ -37,7 +37,7 @@
                 <a
                   class="nav-link"
                   aria-current="page"
-                  href="public/views/ofertas.html"
+                  href="public/views/ofertas.php"
                   >Ofertas</a
                 >
               </li>
@@ -53,12 +53,12 @@
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="#">Zapatillas</a></li>
                   <li>
-                    <a class="dropdown-item" href="public/views/hombre.html"
+                    <a class="dropdown-item" href="public/views/hombre.php"
                       >Ropa de Hombre</a
                     >
                   </li>
                   <li>
-                    <a class="dropdown-item" href="public/views/mujer.html"
+                    <a class="dropdown-item" href="public/views/mujer.php"
                       >Ropa de Mujer</a
                     >
                   </li>
@@ -73,7 +73,7 @@
                 </ul>
               </li>
               <li class="nav-item ms-2">
-                <a class="nav-link" href="public/views/quienessomos.html"
+                <a class="nav-link" href="public/views/quienessomos.php"
                   >Quiénes Somos</a
                 >
               </li>
@@ -97,7 +97,7 @@
       <article class="portada-item img2"></article>
       <article class="portada-item img3"></article>
       <div class="container-button">
-        <button class="button"><a href="public/views/mujer.html">Invierno 2023</a></button>
+        <button class="button"><a href="public/views/mujer.php">Invierno 2023</a></button>
       </div>
     </div>
 
@@ -115,7 +115,7 @@
             tu personalidad. ¡Sumale accesorios a tu vida!
           </p>
           <div>
-            <button class="button"><a href="public/views/hombre.html">Ver Coleccion</a></button>
+            <button class="button"><a href="public/views/hombre.php">Ver Coleccion</a></button>
           </div>
         </article>
       </section>
@@ -163,7 +163,7 @@
       </article>
 
       <article class="info-icon">
-        <a href="public/views/ofertas.html" class="icon-img icon4"></a>
+        <a href="public/views/ofertas.php" class="icon-img icon4"></a>
         <div class="icon-text">¡Ofertas todos los dias!</div>
       </article>
     </div>
@@ -173,7 +173,7 @@
       <hr class="m-0" />
       <div class="footer-content d-flex flex-row justify-content-center">
         <a
-          href="public/views/quienessomos.html#contacto"
+          href="public/views/quienessomos.php#contacto"
           class="footer-item p-3 pb-0"
           >Contacto</a
         >
